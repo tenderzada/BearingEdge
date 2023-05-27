@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# DIY
+*.npy
+/confidence_scores_0526/
+/parameters/
+
 # Distribution / packaging
 .Python
 build/
